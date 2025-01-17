@@ -1,0 +1,35 @@
+#heading{
+    text-align: start;
+    margin-top: 0px;
+  }
+  
+  #input{
+    margin-right: 20px;
+    width: 180px;
+    height: 30px;
+    border-radius: 3px;
+  }
+  #add{
+    color: black;
+    background-color: green;
+    
+  }
+
+  #rmvbtn{
+    color: black;
+    background-color: yellow;
+    margin-left: 20px;
+    border-radius: 5px;
+    border-color: black;
+    height: 70px;
+    
+  }
+  #rmvbtn:hover{
+    color: orangered;
+  }
+
+  #datalist{
+    background-color: indianred;
+    height: 30rem;
+    
+  }
